@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ckaundanya" target="blank"><img src="https://img.shields.io/twitter/follow/ckaundanya?logo=twitter&style=for-the-badge" alt="ckaundanya" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Style Transfer**
+- 🔭 I’m currently working on **running ML models on MCUs**
 
 - 🌱 I’m currently learning **PyTorch**
 
